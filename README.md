@@ -1,17 +1,23 @@
 
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Juan Quiroz</h1></summary>
+    <summary>
+        <img align="center" width=5% src="https://upload.wikimedia.org/wikipedia/commons/8/89/Dragon_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" alt="dragon" />
+      <h1 style="display: inline-block">Hi, I'm Juan Quiroz</h1>
+    <img align="center" width=5% src="https://upload.wikimedia.org/wikipedia/commons/8/89/Dragon_-_Idil_Keysan_-_Wikimedia_Giphy_stickers_2019.gif" alt="dragon" />
+    </summary>
   </ul>
 </div>
 
 
 <!--- snake -->
-<div align="center">
+<div align="center" width="50%">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
@@ -23,6 +29,9 @@
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
 </div>
+
+
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
 <!--Intro start-->
@@ -52,7 +61,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanQuiro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=JuanQuiro&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
