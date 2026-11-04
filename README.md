@@ -6,6 +6,8 @@ I design, build, and ship complete products — backend, frontend, data, and dep
 
 Carabobo, Venezuela · UTC−4 · Full overlap with US Eastern
 
+[juanquiro.vercel.app](https://juanquiro.vercel.app)
+
 ---
 
 ## What I'm building
@@ -47,6 +49,6 @@ Five years across FinTech and automation:
 
 ## Contact
 
-[juanquirozsana@gmail.com](mailto:juanquirozsana@gmail.com) · [LinkedIn](https://linkedin.com/in/dreyz)
+[juanquiro.vercel.app](https://juanquiro.vercel.app) · [juanquirozsana@gmail.com](mailto:juanquirozsana@gmail.com) · [LinkedIn](https://linkedin.com/in/dreyz)
 
 **Open to founding engineer and senior full-stack roles — remote.**
