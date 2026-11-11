@@ -16,7 +16,7 @@ Carabobo, Venezuela · UTC−4 · Full overlap with US Eastern
 
 For LATAM small businesses. Hexagonal TypeScript backend across six bounded modules, a 41-table schema, and 303 HTTP routes. WhatsApp ordering bot (Baileys / BotBuilder), multi-currency payments (Zelle, PayPal, Pago Móvil, cash), React 18 dashboard, and 349 test files covering unit, integration, and business rules.
 
-### Apexo — clinic management ERP
+### SOS Dental — clinic management ERP
 
 59 modules on Flutter Web and PocketBase for a dental practice: patients, appointments, odontogram, payments, payroll, inventory, and analytics. Includes a Rust ML service (axum + ONNX) that predicts churn, LTV, and appointment cancellation.
 
