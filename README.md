@@ -28,22 +28,22 @@ For LATAM small businesses. Hexagonal TypeScript backend across six bounded modu
 
 ## Experience
 
-**Ember Drago** — Founder & Software Engineer · 2025 – Present
+**[Ember Drago](https://ember-drago.vercel.app)** — Founder & Software Engineer · 2025 – Present
 Two products in production, from architecture through deployment and operations.
 
-**UNITEC** — Assistant to the Vice-Rector · 2025 – Present
+**[UNITEC](https://portal.unitec.edu.ve/)** — Assistant to the Vice-Rector · 2025 – Present
 Drupal portal and Excel reporting for the Vice-Rector's office; library and repository work with DSpace, OJS, and CRIS-lite.
 
-**MotoStudio** — Fractional Technical Lead & Architect · Oct 2023 – Present
+**[MotoStudio](https://motostudiove.com/)** — Fractional Technical Lead & Architect · Oct 2023 – Present
 Credit engine, automated bank reconciliation, and PCI DSS-compatible payment flows for a vehicle financing platform.
 
-**Daka** — Application Development Consultant · Oct 2024 – Mar 2025
+**[Daka](https://tiendasdaka.com/ve)** — Application Development Consultant · Oct 2024 – Mar 2025
 SAP HANA integrations and SQL reporting for a retail group's technology arm.
 
-**Empresys** — Full Stack Lead & RPA Engineer · Oct 2023 – Jun 2024
+**[Empresys](https://www.empresys.com/)** — Full Stack Lead & RPA Engineer · Oct 2023 – Jun 2024
 Enterprise RPA for a major Asian logistics partner: 100% of ingestion and reporting automated, 20% lower operating costs, 40% faster execution.
 
-**NoCountry** — Frontend → Full Stack → Technical Lead & PM · 2022 – 2023
+**[NoCountry](https://www.nocountry.tech/)** — Frontend → Full Stack → Technical Lead & PM · 2022 – 2023
 Squad from frontend to backend: 30% faster delivery and mentoring in XP and TDD.
 
 ---
