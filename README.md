@@ -14,11 +14,11 @@ Carabobo, Venezuela · UTC−4 · Full overlap with US Eastern
 
 ## In production
 
-### Cocolu Ventas — sales, inventory & accounting SaaS
+### [Cocolu Ventas](https://chatboot-cocoluventas.vercel.app) — sales, inventory & accounting SaaS
 
 For LATAM small businesses. Hexagonal TypeScript backend across six bounded modules, a 41-table schema, and 303 HTTP routes. WhatsApp ordering bot (Baileys / BotBuilder), multi-currency payments (Zelle, PayPal, Pago Móvil, cash), React 18 dashboard, and 349 test files covering unit, integration, and business rules. Shipped in 8 weeks.
 
-### SOS Dental — clinic management ERP
+### [SOS Dental](https://odonto.142-4-37-132.sslip.io/) — clinic management ERP
 
 59 modules on Flutter Web and PocketBase for a dental practice: patients, appointments, odontogram, payments, payroll, inventory, and analytics. Includes a Rust ML service (axum + ONNX) that predicts churn, LTV, and appointment cancellation. Spanish, English, and Arabic UI.
 
