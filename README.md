@@ -43,7 +43,7 @@ SAP HANA integrations and SQL reporting for a retail group's technology arm.
 **Empresys** — Full Stack Lead & RPA Engineer · Oct 2023 – Jun 2024
 Enterprise RPA for a major Asian logistics partner: 100% of ingestion and reporting automated, 20% lower operating costs, 40% faster execution.
 
-**NoCountry** — Technical Lead · 2022 – 2023
+**NoCountry** — Frontend → Full Stack → Technical Lead & PM · 2022 – 2023
 Squad from frontend to backend: 30% faster delivery and mentoring in XP and TDD.
 
 ---
