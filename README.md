@@ -65,4 +65,6 @@ Squad from frontend to backend: 30% faster delivery and mentoring in XP and TDD.
 
 [juanquiro.vercel.app](https://juanquiro.vercel.app) · [juanquirozsana@gmail.com](mailto:juanquirozsana@gmail.com) · [LinkedIn](https://linkedin.com/in/dreyz)
 
+**Certifications:** Professional Scrum Master · RWPC · Venezuelan Informatics Olympiad 2020
+
 **Open to founding engineer and senior full-stack roles — remote.**
