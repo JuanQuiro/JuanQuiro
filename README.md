@@ -34,7 +34,7 @@ Two products in production, from architecture through deployment and operations.
 **[UNITEC](https://portal.unitec.edu.ve/)** — Assistant to the Vice-Rector · 2025 – Present
 Drupal portal and Excel reporting for the Vice-Rector's office; library and repository work with DSpace, OJS, and CRIS-lite.
 
-**[MotoStudio](https://motostudiove.com/)** — Fractional Technical Lead & Architect · Oct 2023 – Present
+**[MotoStudio](https://motostudiove.com/)** — Fractional Technical Lead & Architect · Oct 2023 – Oct 2024
 Credit engine, automated bank reconciliation, and PCI DSS-compatible payment flows for a vehicle financing platform.
 
 **[Daka](https://tiendasdaka.com/ve)** — Application Development Consultant · Oct 2024 – Mar 2025
